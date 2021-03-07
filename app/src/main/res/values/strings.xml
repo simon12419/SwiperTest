@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SwiperTest</string>
+
+    <!-- main -->
+    <string name="phone">PHONE</string>
+    <string name="chat">CHAT</string>
+    <string name="explore">EXPLORE</string>
+    <string name="wallet">WALLET</string>
+
+    <!-- wallet -->
+    <string name="starbucks">Starbucks</string>
+    <string name="store">Store</string>
+    <string name="activity_code">活動代碼</string>
+    <string name="e_commerce">合作電商</string>
+    <string name="mall">滑眾商城</string>
+    <string name="rb_record">容幣紀錄</string>
+    <string name="exchange_voucher">兌換卷(%d)</string>
+    <string name="loading">加載中</string>
+    <string name="rong_bi">容幣</string>
+    <string name="xnc">XNC(無限錢包)</string>
+    <string name="desc_expire">%d 天後到期</string>
+    <string name="more">更多詳情</string>
+    <string name="hide">隱藏</string>
+    <string name="desc_ad">2019 中台灣元宵燈會-福滿盈豬。燈會限定，網美幣拍！</string>
+    <string name="ad">AD</string>
+    <string name="ad_place">台中市政府</string>
+
+</resources>

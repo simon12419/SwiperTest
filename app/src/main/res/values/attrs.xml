@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomView">
+        <attr name="cvIcon" format="reference" />
+        <attr name="cvTitle" format="string" />
+        <attr name="cvTextSize" format="dimension" />
+        <attr name="cvTextColor" format="reference|color" />
+    </declare-styleable>
+
+</resources>
